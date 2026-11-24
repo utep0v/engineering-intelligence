@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Intelligence"
+  short_description: "Аудит архитектуры и план развития существующего проекта"
+  default_prompt: "$engineering-intelligence Проведи архитектурный аудит проекта. Пока ничего не меняй."
